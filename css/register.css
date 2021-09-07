@@ -1,0 +1,84 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.container{
+	width: 650px;
+	margin: 8% auto;
+
+}
+
+body{
+
+	background: url(../img/bg2.jpg);
+	background-repeat: no-repeat ;
+	background-size: cover;
+	font-family: 'Roboto', sans-serif;
+}
+
+.registration{
+	background:#272727bf;
+    padding:30px;
+
+}
+
+.registration img{
+
+	width:150px;
+    margin:0 auto;
+    display:block;
+
+}
+
+.formcontrol{
+	width:65%;
+	width:50%;
+    height:45px;
+    margin-bottom:20px;
+    padding:5px;
+    text-align:center;
+    margin:0 auto;
+    display:block;
+    background:#6b696959;
+    border:white;
+}
+
+.formcontrol1{
+	width:45%;
+	height:45px;
+	padding:5px;
+	margin:20px 4px;
+    text-align:center;
+    background:#6b696959;
+    border:white;
+}
+
+.signupbutton{
+	background:#499C00;
+	padding:10px 40px;
+	margin:0 auto;
+	display:block;
+	border:3px white;
+	cursor:pointer;
+	margin-bottom:20px;
+	transition: 0.4s ease-in-out;
+    -moz-transition:0.4s ease-in-out;
+    -o-transition:0.4s ease-in-out;
+    -webkit-transition:0.4s ease-in-out; 
+
+}
+
+.signupbutton:hover{
+	box-shadow: 2px 4px 8px #499C00 ;
+}
+
+.registration h5{
+	color: white;
+}
+
+.link{
+	color:#00d0ff;
+	margin:20px
+
+}

@@ -1,0 +1,91 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.container{
+	width: 650px;
+	margin: 8% auto;
+
+}
+
+body{
+
+	background:url(../img/bg1.jpg) ;
+	background-repeat: no-repeat;
+	background-size: fit;
+	font-family: 'Roboto', sans-serif;
+}
+
+.login{
+	background:#272727bf;
+    padding:30px;
+
+
+}
+
+.login img{
+	width:150px;
+	margin:0px auto;
+	display:block;	
+
+}
+
+.login h4{
+	color: white;
+	text-align:center;
+	margin:10px 0px;
+
+}
+
+
+.login h5{
+	color:white;
+	margin-bottom:10px;
+	text-align:center;
+	margin-top:10px;
+	
+
+}
+
+.formcontrol{
+	width:65%;
+	height:45px;
+	margin-bottom:20px;
+	background:#27272785;
+	border: white ;
+	text-align:center;
+	text-decoration-color: white;
+    margin:0 auto;
+    display:block;
+}
+
+
+
+.logbutton{
+
+	background:#499C00;
+    padding:10px 40px;
+    margin:0 auto;
+    display:block;
+    border:10px white;
+    cursor: pointer;
+    transition: 0.4s ease-in-out;
+    -moz-transition:0.4s ease-in-out;
+    -o-transition:0.4s ease-in-out;
+    -webkit-transition:0.4s ease-in-out; 
+
+
+
+}
+
+.logbutton:hover{
+	box-shadow: 2px 4px 8px #499C00 ;
+
+}
+
+.link{
+
+	color:#00d0ff;
+	margin:20px
+}
